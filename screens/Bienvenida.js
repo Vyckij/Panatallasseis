@@ -51,7 +51,6 @@ const styles = StyleSheet.create({
   buttonText: {
     color: 'black',
     fontSize: 18
-    //textTransform: 'uppercase'
   }
 });
 
